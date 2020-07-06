@@ -1,2 +1,0 @@
-# BingImgService
-Image microservice 
